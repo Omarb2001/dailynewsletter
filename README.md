@@ -8,4 +8,4 @@ Used BART NLP model then switched tto newspaper3k NLP as I have found the summar
 
 As time goes on, I will be developing more accurate methods for scraping articles for even better summaries. More use cases will be added as time goes on.
 
-Planning ona adding summaries of political news, with models that check for bias.
+Planning on adding summaries of political news, with models that check for bias.
